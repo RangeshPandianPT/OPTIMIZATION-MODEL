@@ -16,3 +16,7 @@ This project demonstrates how to solve a product mix optimization problem for a 
 - production_summary.csv: Output showing product units and profit
 - slack_report.csv: Unused machine/labor hour report
 - production_plan.png: Bar chart of production decision
+
+## OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/f256f61e-e92f-4f4d-8867-02e4345bca12)
