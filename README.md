@@ -72,6 +72,12 @@ The company manufactures three products: **Chairs**, **Tables**, and **Desks**. 
 
 ---
 
+ ## OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/f256f61e-e92f-4f4d-8867-02e4345bca12)
+
+---
+
 ## 📚 Dependencies
 
 Install the required Python packages before running:
@@ -86,6 +92,6 @@ pip install pulp matplotlib pandas
 - slack_report.csv: Unused machine/labor hour report
 - production_plan.png: Bar chart of production decision
 
-## OUTPUT 
+---
 
-![Image](https://github.com/user-attachments/assets/f256f61e-e92f-4f4d-8867-02e4345bca12)
+
